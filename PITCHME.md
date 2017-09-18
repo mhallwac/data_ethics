@@ -1,0 +1,26 @@
+### Technological Power
+
+Max Hallwachs and Devin Spruell
+
+---
+
+### Populorum Progressio Paragrph 34
+" Economics and technology are
+meaningless if they do not benefit man, for it is he they are to serve. Man is truly human only if he is the
+master of his own actions and the judge of their worth, only if he is the architect of his own progress. "
+
+---
+
+### Misuse of Technology
+
+* The misuse of technology, financial crime, and privacy-related issues took up half of the Top 10 fears of 2015. 
+  * Corruption of government officials (58.0%)
+  * Cyber-terrorism (44.8%)
+  * Corporate tracking of personal information (44.6%)
+  * Terrorist attacks (44.4%)
+  * Government tracking of personal information (41.4%)
+  * Bio-warfare (40.9%)
+  * Identity theft (39.6%)
+  * Economic collapse (39.2%)
+  * Running out of money in the future (37.4%)
+  * Credit card fraud (36.9%)
