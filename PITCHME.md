@@ -4,7 +4,7 @@ Max Hallwachs and Devin Spruell
 
 ---
 
-### Populorum Progressio Paragraph 34
+### Populorum Progressio, Paragraph 34
 " Economics and technology are
 meaningless if they do not benefit man, for it is he they are to serve. Man is truly human only if he is the
 master of his own actions and the judge of their worth, only if he is the architect of his own progress. "
@@ -24,3 +24,18 @@ master of his own actions and the judge of their worth, only if he is the archit
   * Economic collapse (39.2%)
   * Running out of money in the future (37.4%)
   * Credit card fraud (36.9%)
+  
+---
+
+### Proper Use of Technology
+  
+Technology is also used to benefit us as well
+ * Education
+  * Allows kids to learn at their own pace
+  * No limitations
+  * Multitude of resources
+ * Criminal Justice System
+  * Robots, robotic cameras, and flying drones
+  * Gunshot detection system 
+  * Databases
+
